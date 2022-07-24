@@ -11,6 +11,10 @@ Consiste na utilização de um cronômetro para dividir o trabalho em períodos 
 - Som para alertar da finalização do período
 - Sons de acionamentos dos botões
 
+# Preview
+
+![IM2](https://github.com/amorimcesar/pomodorotimerdark/blob/main/assets/IMG.jpeg)
+
 # Tecnologias utilizadas
 
 <div style="display: inline_block"><br/>
