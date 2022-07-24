@@ -24,6 +24,4 @@ Consiste na utilização de um cronômetro para dividir o trabalho em períodos 
 </div><br/>
 
 
-# Contribuindo
-
 Contribuições são sempre bem-vindas!
