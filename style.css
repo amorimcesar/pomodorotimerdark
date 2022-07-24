@@ -35,7 +35,7 @@ main{
   display: flex;
   flex-direction: column;
   justify-self: center;
-  margin: 19.2rem 23rem;
+  margin: 0 auto;
   gap: 5rem;
 }
 
