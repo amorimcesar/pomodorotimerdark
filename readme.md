@@ -13,7 +13,7 @@ Consiste na utilização de um cronômetro para dividir o trabalho em períodos 
 
 # Preview
 
-![IM2](https://github.com/amorimcesar/pomodorotimerdark/blob/main/assets/IMG.jpeg)
+![IM2](https://github.com/amorimcesar/pomodorotimerdark/blob/main/assets/IMG.jpg)
 
 # Tecnologias utilizadas
 
